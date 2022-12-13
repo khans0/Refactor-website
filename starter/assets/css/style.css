@@ -32,11 +32,11 @@ nav {
     font-size: 20px;
 }
 
-nav{
+ul{
     list-style-type: none;
 }
 
-nav {
+li {
     display: inline-block;
     margin-left: 25px;
 }
