@@ -8,7 +8,7 @@ As this webpage is now more accesible it also allows an improved SEO ability. Th
 
 Screenshot:
 ```md
-![Full screenshot of delpoyed webpage](Challenge1\assets\Web capture_13-12-2022_12659_.jpeg)
+![Full screenshot of deployed webpage](Challenge1\assets\images\Web-capture.jpeg)
 ```
 URL of deployed git:
-https://github.com/khans0/Challenge1.git
+https://khans0.github.io/Challenge1/
