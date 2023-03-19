@@ -46,10 +46,10 @@ THEN there are 'alt' attributes to all of them
 ​
 It's done when:
 ​
-- [ ]Semantic HTML elements can be found throughout the source code
+- [ ] Semantic HTML elements can be found throughout the source code
 - [ ] HTML elements follow a logical structure independent of styling and positioning
-- [ ]Image and icon elements contain accessible `alt` attributes
-- [ ]Heading attributes fall in sequential order
+- [ ] Image and icon elements contain accessible `alt` attributes
+- [ ] Heading attributes fall in sequential order
 - [ ] Title elements contain a concise, descriptive title
 ​
 ## �� MOCK-UP
